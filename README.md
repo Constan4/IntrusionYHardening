@@ -1,3 +1,5 @@
+PARA LEER TODA LA INVESTIGACION ACCEDER AL PDF
+
 🛡️ Ciclo de Intrusión y Hardening en Sistemas Windows 💻
 👤 Información del Autor
 Autor: Constan Millán Hernández
